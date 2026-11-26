@@ -49,7 +49,7 @@ Claude, Codex, Kimi, OpenCode, DeepSeek, OpenBot, Gemini and OpenAI for coding a
 
 Agent orchestration: multi agent workflows, subagents, tool calling and prompt chaining.
 
-<img src="assets/ai-automation.svg" height="48" alt="Puppeteer, Selenium, Playwright and Prompt Engineering">
+<img src="assets/ai-browser.svg" height="48" alt="Puppeteer, Selenium, Playwright and Prompt Engineering">
 
 Browser automation and testing with Puppeteer, Selenium and Playwright, plus prompt engineering for reliable agent behavior.
 
