@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="Felipe Estrela, Backend Developer, Node.js and AI Automation" width="100%">
+<img src="assets/banner-bw.svg" alt="Felipe Estrela, Backend Developer, Node.js and AI Automation" width="100%">
 
 ## About me
 
@@ -49,7 +49,7 @@ Claude, Codex, Kimi, OpenCode, DeepSeek, OpenBot, Gemini and OpenAI for coding a
 
 Agent orchestration: multi agent workflows, subagents, tool calling and prompt chaining.
 
-<img src="assets/ai-browser.svg" height="48" alt="Puppeteer, Selenium, Playwright and Prompt Engineering">
+<img src="assets/ai-browser-bw.svg" height="48" alt="Puppeteer, Selenium, Playwright and Prompt Engineering">
 
 Browser automation and testing with Puppeteer, Selenium and Playwright, plus prompt engineering for reliable agent behavior.
 
@@ -81,7 +81,7 @@ Postman, Insomnia, Swagger, Electron, Figma, VS Code, Cursor, GitHub, npm, Vite,
 
 ## Languages
 
-<img src="assets/spoken-languages.svg" alt="Languages spoken: Portuguese native, English intermediate, Spanish fluent">
+<img src="assets/spoken-languages-bw.svg" alt="Languages spoken: Portuguese native, English intermediate, Spanish fluent">
 
 Portuguese (native), English (intermediate, for technical reading and professional communication) and Spanish (fluent).
 
@@ -89,4 +89,4 @@ Portuguese (native), English (intermediate, for technical reading and profession
 
 Open to talking about backend systems, automation and AI integrations. The best way to reach me is through LinkedIn.
 
-<a href="https://www.linkedin.com/in/felipe-gte"><img src="assets/btn-linkedin.svg" height="56" alt="LinkedIn, linkedin.com/in/felipe-gte"></a>&nbsp;&nbsp;<a href="https://felipeestrela.com.br"><img src="assets/btn-website.svg" height="56" alt="Website, felipeestrela.com.br"></a>
+<a href="https://www.linkedin.com/in/felipe-gte"><img src="assets/btn-linkedin-bw.svg" height="56" alt="LinkedIn, linkedin.com/in/felipe-gte"></a>&nbsp;&nbsp;<a href="https://felipeestrela.com.br"><img src="assets/btn-website-bw.svg" height="56" alt="Website, felipeestrela.com.br"></a>
