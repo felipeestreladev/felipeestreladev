@@ -1,79 +1,119 @@
-<div align="center">
+<img src="assets/banner.svg" alt="Felipe Estrela, Backend Developer, Node.js and AI Automation" width="100%">
 
-<img src="assets/banner.svg" width="100%" alt="Felipe Estrela, Backend Developer, Node.js and AI Automation">
+## About me
 
-<img src="assets/stats.svg" width="100%" alt="Building since 2021. 35,000+ users on Lunar Bot. 54 certificates.">
+I am Felipe, a backend developer based in Toledo, Paraná, Brazil. I build and operate web systems, APIs and desktop applications, with a focus on **Node.js and TypeScript**, **databases** and **AI automation**: agents, MCP and LLM integrations.
 
-<br>
+My work covers internal process automation, marketplaces and digital products running in production, including a Discord platform that grew to 35,000+ users. I am studying Software Engineering at Biopark and graduate in 2027.
 
-<a href="https://www.linkedin.com/in/felipe-gte"><img src="assets/btn-linkedin.svg" height="46" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="https://felipeestrela.com.br"><img src="assets/btn-website.svg" height="46" alt="felipeestrela.com.br"></a>
+**Right now**
 
-</div>
+- Full Stack Developer at Hagap, building web and desktop systems that automate internal processes
+- Founder and developer of MyGames, a marketplace running in production
+- Software Engineering student at Biopark, graduating in 2027
 
-<br>
+## What I do
 
-<img src="assets/h-about.svg" width="100%" alt="About">
+- **AI and automation:** AI agents, MCP servers, LLM integrations with Gemini and OpenAI, prompt engineering and browser automation with Puppeteer and Selenium
+- **Backend and APIs:** Node.js, Express, REST and GraphQL APIs, plus Django and Spring
+- **Full stack:** React, Next.js, Angular, Vue.js and Tailwind CSS
+- **Desktop apps:** Electron applications for automation and operations
+- **Data:** PostgreSQL, MySQL, MariaDB, MongoDB, Redis for cache, sessions and queues, and SQLite
+- **Infrastructure:** Docker, Linux, Nginx, microservices, AWS, Google Cloud, CI/CD, RabbitMQ and Kafka
 
-I build and operate web systems, APIs and desktop applications, with a focus on **Node.js and TypeScript**, **databases** and **AI automation**: agents, MCP and LLM integrations.
+## My stacks
 
-My work covers internal process automation, marketplaces and digital products running in production, including a Discord platform that grew to **35,000+ users**. Based in Toledo, Paraná, Brazil.
+### Languages
 
-<img src="assets/now.svg" width="100%" alt="Right now: Full Stack Developer at Hagap, founder of MyGames, studying Software Engineering at Biopark.">
+![Languages](https://skillicons.dev/icons?i=ts,js,py,cs,java,go,php,html,css&theme=dark)
 
-<br>
+TypeScript, JavaScript, Python, C#, Java, Go, PHP, SQL, HTML5 and CSS3
 
-<img src="assets/h-focus.svg" width="100%" alt="What I do">
+### Frontend
 
-<img src="assets/focus.svg" width="100%" alt="Focus areas: AI and automation, backend and APIs, full stack, desktop apps, data and infrastructure.">
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,angular,vue,tailwind&theme=dark)
 
-<br>
+React, Next.js, Angular, Vue.js and Tailwind CSS
 
-<img src="assets/h-stack.svg" width="100%" alt="Tech stack">
+### Backend
 
-<img src="assets/stack.svg" width="100%" alt="Tech stack: TypeScript, JavaScript, Python, C#, Java, Go, PHP, SQL, HTML5, CSS3, React, Next.js, Angular, Vue.js, Tailwind CSS, Node.js, Express, Django, Spring, REST APIs, GraphQL, AI Agents, MCP, LLM Integration, Gemini, OpenAI, Puppeteer, Prompt Engineering, PostgreSQL, MySQL, MariaDB, MongoDB, Redis, SQLite, Docker, Linux, Nginx, AWS, Google Cloud, Git, CI/CD, RabbitMQ, Kafka, Microservices, Postman, Insomnia, Electron, Selenium, Figma.">
+![Backend](https://skillicons.dev/icons?i=nodejs,express,django,spring,graphql&theme=dark)
 
-<br>
+Node.js, Express, Django, Spring, REST APIs and GraphQL
 
-<img src="assets/h-projects.svg" width="100%" alt="Featured projects">
+### AI and automation
 
-<div align="center">
+![AI and automation](https://skillicons.dev/icons?i=selenium&theme=dark)
 
-<a href="https://mygames.com.br"><img src="assets/projects/mygames.svg" width="49%" alt="MyGames: Marketplace for game items, accounts and currencies, with payments, digital delivery and platform security."></a> <a href="https://galaxycdn.com.br"><img src="assets/projects/galaxycdn.svg" width="49%" alt="Galaxy CDN: CDN for assets, images and media with distributed caching."></a><br>
-<a href="https://freegemini.felipeestrela.com.br"><img src="assets/projects/freegemini.svg" width="49%" alt="Free Gemini API: API with sessions to integrate Gemini models into apps and automations."></a> <a href="https://alldrive.cloud"><img src="assets/projects/alldrive.svg" width="49%" alt="AllDrive: Unified workspace for Google Drive and S3, with fast sharing and storage management."></a><br>
-<a href="https://astrohub.neonstore.cloud"><img src="assets/projects/astrohub.svg" width="49%" alt="AstroHub: Platform and desktop app for secure automations, campaigns and Discord management."></a> <a href="https://frameclear.felipeestrela.com.br"><img src="assets/projects/frameclear.svg" width="49%" alt="Frameclear: Web studio for removing logos and fixed areas from videos directly in the browser."></a><br>
+AI agents, MCP, LLM integration (Gemini and OpenAI), process automation, Puppeteer, Selenium and prompt engineering
 
-</div>
+### Databases
 
-<br>
+![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=dark)
 
-<img src="assets/h-experience.svg" width="100%" alt="Experience">
+PostgreSQL, MySQL, MariaDB, MongoDB, Redis (cache, sessions and queues) and SQLite
 
-<img src="assets/experience/hagap.svg" width="100%" alt="Full Stack Developer at Hagap, 2023 to Present">
+### Infrastructure and DevOps
 
-<img src="assets/experience/mygames.svg" width="100%" alt="Founder and Developer at MyGames, 2022 to Present">
+![Infrastructure](https://skillicons.dev/icons?i=docker,linux,nginx,aws,gcp,git,githubactions,rabbitmq,kafka&theme=dark)
 
-<img src="assets/experience/ativaepis.svg" width="100%" alt="E-commerce Specialist at Ativa EPIS, 2023">
+Docker, Linux, Nginx, microservices, AWS, Google Cloud, Git, CI/CD, RabbitMQ and Kafka
 
-<img src="assets/experience/lunarbot.svg" width="100%" alt="Founder and Developer at Lunar Bot, 2021 to 2022">
+### Tools
 
-<br>
+![Tools](https://skillicons.dev/icons?i=postman,electron,figma&theme=dark)
 
-<img src="assets/h-education.svg" width="100%" alt="Education and languages">
+Postman, Insomnia, Electron, Selenium, Puppeteer and Figma
 
-<img src="assets/education.svg" width="100%" alt="Education: Software Engineering at Biopark, Projeto Zero ao Um, and high school.">
+## Featured projects
 
-<img src="assets/languages.svg" width="100%" alt="Languages: Portuguese native, English intermediate, Spanish fluent.">
+- **[MyGames](https://mygames.com.br)**: marketplace for game items, accounts and currencies, with payments, digital delivery and platform security
+- **[Galaxy CDN](https://galaxycdn.com.br)**: CDN for assets, images and media with distributed caching
+- **[Free Gemini API](https://freegemini.felipeestrela.com.br)**: API with sessions to integrate Gemini models into apps and automations
+- **[AllDrive](https://alldrive.cloud)**: unified workspace for Google Drive and S3, with fast sharing and storage management
+- **[AstroHub](https://astrohub.neonstore.cloud)**: platform and desktop app for secure automations, campaigns and Discord management
+- **[Frameclear](https://frameclear.felipeestrela.com.br)**: web studio for removing logos and fixed areas from videos directly in the browser
 
-<br>
+## Experience
 
-<img src="assets/h-connect.svg" width="100%" alt="Let's connect">
+**Full Stack Developer at Hagap** (2023 to Present)
 
-<div align="center">
+- Web and desktop systems for internal process automation
+- Team management modules, invoice issuing and document organization
+- Custom forms and tailored operational workflows for internal teams
+
+**Founder and Developer of MyGames** (2022 to Present)
+
+- Architecture and development of a marketplace for game items, accounts and currencies
+- Backend, frontend, payment integrations, digital delivery and platform security
+- Ongoing operation and evolution of the product in production
+
+**E-commerce Specialist at Ativa EPIS** (2023)
+
+- Online inventory control with monitoring to prevent stockouts
+- Storefront maintenance: banners, layout adjustments and visual content updates
+
+**Founder and Developer of Lunar Bot** (2021 to 2022)
+
+- Discord bot for selling digital products, grown to 35,000+ users
+- Managed availability, performance and customer base growth
+
+## Education
+
+- **Software Engineering**, Biopark Educação (2024 to 2027, 6th term)
+- **Projeto Zero ao Um**, Biopark: top student of Class 2 (2021 to 2022)
+- **High School**, Colégio Estadual Jardim Gisele (2020 to 2023)
+- **Certifications:** 54 completed course certificates
+
+## Languages
+
+- Portuguese: native
+- English: intermediate, for technical reading and professional communication
+- Spanish: fluent
+
+## Connect with me
 
 Open to talking about backend systems, automation and AI integrations.
 
-<br><br>
-
-<a href="https://www.linkedin.com/in/felipe-gte"><img src="assets/btn-linkedin.svg" height="46" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="https://felipeestrela.com.br"><img src="assets/btn-website.svg" height="46" alt="felipeestrela.com.br"></a>
-
-</div>
+- **LinkedIn:** [linkedin.com/in/felipe-gte](https://www.linkedin.com/in/felipe-gte)
+- **Website:** [felipeestrela.com.br](https://felipeestrela.com.br)
