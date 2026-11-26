@@ -2,15 +2,9 @@
 
 ## About me
 
-I am Felipe, a backend developer based in Toledo, Paraná, Brazil. I build and operate web systems, APIs and desktop applications, with a focus on **Node.js and TypeScript**, **databases** and **AI automation**: agents, MCP and LLM integrations.
+Backend developer from Toledo, Paraná, Brazil. I build APIs, web systems and AI automations with **Node.js and TypeScript**.
 
-My work covers internal process automation, marketplaces and digital products running in production, including a Discord platform that grew to 35,000+ users. I am studying Software Engineering at Biopark and graduate in 2027.
-
-**Right now**
-
-- Full Stack Developer at Hagap, building web and desktop systems that automate internal processes
-- Founder and developer of MyGames, a marketplace running in production
-- Software Engineering student at Biopark, graduating in 2027
+Full Stack Developer at **Hagap**. Software Engineering student at **Biopark** (2027).
 
 ## What I do
 
