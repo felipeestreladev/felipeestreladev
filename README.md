@@ -1,153 +1,107 @@
 <div align="center">
 
-# Felipe Gabriel Teixeira Estrela
+<img src="assets/banner.svg" alt="Felipe Estrela, Backend Developer | Node.js and AI Automation" width="100%">
 
-**Backend Developer · Node.js & AI Automation**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1400&color=7DD3C8&center=true&vCenter=true&width=760&height=42&lines=Node.js+and+TypeScript+APIs;AI+agents%2C+MCP+and+LLM+integrations;Marketplaces+and+platforms+in+production;35%2C000%2B+users+%C2%B7+1%2C000%2B+active+stores" alt="Typing animation">
 
-Toledo, Paraná, Brazil
+<br>
 
-[LinkedIn](https://www.linkedin.com/in/felipe-gte) &nbsp;·&nbsp; [Website](https://felipeestrela.com.br) &nbsp;·&nbsp; [Email](mailto:felipeestrela2006@gmail.com)
+<img src="https://img.shields.io/badge/Building%20since-2021-14B8A6?style=for-the-badge&labelColor=0B1220" alt="Building since 2021"> <img src="https://img.shields.io/badge/Users%20operated-35%2C000%2B-14B8A6?style=for-the-badge&labelColor=0B1220" alt="Users operated 35,000+"> <img src="https://img.shields.io/badge/Active%20stores-1%2C000%2B-14B8A6?style=for-the-badge&labelColor=0B1220" alt="Active stores 1,000+"> <img src="https://img.shields.io/badge/Certificates-54-14B8A6?style=for-the-badge&labelColor=0B1220" alt="Certificates 54">
+
+<br>
+
+<a href="https://www.linkedin.com/in/felipe-gte"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
+<a href="https://felipeestrela.com.br"><img src="https://img.shields.io/badge/felipeestrela.com.br-0B1220?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Website"></a>
+<a href="mailto:felipeestrela2006@gmail.com"><img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
 
 </div>
 
----
+<br>
 
 ## About
 
-I build and operate web systems, APIs and desktop applications, with a focus on **Node.js and TypeScript**, **databases** and **AI automation** (agents, MCP and LLM integrations).
+I build and operate web systems, APIs and desktop applications, with a focus on **Node.js and TypeScript**, **databases** and **AI automation**: agents, MCP and LLM integrations.
 
-My work covers internal process automation, marketplaces and digital products running in production, including high-volume platforms with **35,000+ users** and **1,000+ active stores**. I am a Software Engineering undergraduate at Biopark, graduating in 2027.
+My work covers internal process automation, marketplaces and digital products running in production, including platforms with **35,000+ users** and **1,000+ active stores**. Based in Toledo, Paraná, Brazil.
+
+| Right now | |
+| :--- | :--- |
+| **Full Stack Developer** | Hagap, building web and desktop systems that automate internal processes |
+| **Founder and Developer** | MyGames, a marketplace running in production |
+| **Student** | Software Engineering at Biopark, graduating in 2027 |
+
+<br>
 
 ## What I do
 
-| Area | Focus |
-| --- | --- |
-| **AI & Automation** | AI agents, MCP servers, LLM integrations (Gemini and OpenAI), prompt engineering, browser automation with Puppeteer and Selenium |
-| **Backend & APIs** | Node.js, Express, REST and GraphQL APIs, plus Django and Spring |
+| | Focus |
+| :--- | :--- |
+| **AI and Automation** | AI agents, MCP servers, LLM integrations with Gemini and OpenAI, prompt engineering, browser automation with Puppeteer and Selenium |
+| **Backend and APIs** | Node.js, Express, REST and GraphQL APIs, plus Django and Spring |
 | **Full stack** | React, Next.js, Angular, Vue.js and Tailwind CSS |
 | **Desktop apps** | Electron applications for automation and operations |
-| **Data** | PostgreSQL, MySQL, MariaDB, MongoDB, Redis (cache, sessions and queues) and SQLite |
+| **Data** | PostgreSQL, MySQL, MariaDB, MongoDB, Redis for cache, sessions and queues, and SQLite |
 | **Infrastructure** | Docker, Linux, Nginx, microservices, AWS, Google Cloud, CI/CD, RabbitMQ and Kafka |
 
-## Featured projects
-
-| Project | What it is |
-| --- | --- |
-| [**MyGames**](https://mygames.com.br) | Marketplace for game items, accounts and currencies, with payments, digital delivery and platform security |
-| [**Galaxy CDN**](https://galaxycdn.com.br) | CDN for assets, images and media with distributed caching |
-| [**Free Gemini API**](https://freegemini.felipeestrela.com.br) | API with sessions to integrate Gemini models into apps and automations |
-| [**AllDrive**](https://alldrive.cloud) | Unified workspace for Google Drive and S3, with fast sharing and storage management |
-| [**AstroHub**](https://astrohub.neonstore.cloud) | Platform and desktop app for secure automations, campaigns and Discord management |
-| [**Frameclear**](https://frameclear.felipeestrela.com.br) | Web studio for removing logos and fixed areas from videos directly in the browser |
-
-## Experience
-
-**Hagap — Full Stack Developer** · 2023 – Present
-- Web and desktop systems for internal process automation.
-- Team management modules, invoice issuing and document organization.
-- Custom forms and tailored operational workflows for internal teams.
-
-**MyGames — Founder & Developer** · 2022 – Present
-- Architecture and development of a marketplace for game items, accounts and currencies.
-- Owned backend, frontend, payment integrations, digital delivery and platform security.
-- Ongoing operation and evolution of the product in production.
-
-**Ativa EPIS — E-commerce Specialist** · 2023
-- Online inventory control with monitoring to prevent stockouts.
-- Storefront maintenance: banners, layout adjustments and visual content updates.
-
-**Lunar Bot — Founder & Developer** · 2021 – 2022
-- Discord bot for selling digital products.
-- Operated at scale: 35,000+ users and 1,000+ active stores at the same time.
-- Managed availability, performance and customer base growth.
+<br>
 
 ## Tech stack
 
-<div align="center">
+<p align="center"><sub><b>LANGUAGES</b></sub><br><img src="https://skillicons.dev/icons?i=ts,js,py,cs,java,go,php,html,css&perline=9&theme=dark" alt="ts, js, py, cs, java, go, php, html, css" height="48"></p>
 
-<b>Languages</b><br>
-<img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
-<img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-<img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
-<img src="https://img.shields.io/badge/C%23-161B22?style=flat-square&logo=csharp&logoColor=9B4F96" alt="C#">
-<img src="https://img.shields.io/badge/Java-161B22?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java">
-<img src="https://img.shields.io/badge/Go-161B22?style=flat-square&logo=go&logoColor=00ADD8" alt="Go">
-<img src="https://img.shields.io/badge/PHP-161B22?style=flat-square&logo=php&logoColor=777BB4" alt="PHP">
-<img src="https://img.shields.io/badge/SQL-161B22?style=flat-square" alt="SQL">
-<br><br>
+<p align="center"><sub><b>FRONTEND</b></sub><br><img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,tailwind&perline=5&theme=dark" alt="react, nextjs, angular, vue, tailwind" height="48"></p>
 
-<b>Frontend</b><br>
-<img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js">
-<img src="https://img.shields.io/badge/Angular-161B22?style=flat-square&logo=angular&logoColor=DD0031" alt="Angular">
-<img src="https://img.shields.io/badge/Vue.js-161B22?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
-<img src="https://img.shields.io/badge/Tailwind%20CSS-161B22?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
-<img src="https://img.shields.io/badge/HTML5-161B22?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-161B22?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3">
-<br><br>
+<p align="center"><sub><b>BACKEND</b></sub><br><img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,graphql&perline=5&theme=dark" alt="nodejs, express, django, spring, graphql" height="48"></p>
 
-<b>Backend</b><br>
-<img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
-<img src="https://img.shields.io/badge/Express-161B22?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express">
-<img src="https://img.shields.io/badge/Django-161B22?style=flat-square&logo=django&logoColor=44B78B" alt="Django">
-<img src="https://img.shields.io/badge/Spring-161B22?style=flat-square&logo=spring&logoColor=6DB33F" alt="Spring">
-<img src="https://img.shields.io/badge/REST%20APIs-161B22?style=flat-square" alt="REST APIs">
-<img src="https://img.shields.io/badge/GraphQL-161B22?style=flat-square&logo=graphql&logoColor=E10098" alt="GraphQL">
-<br><br>
+<p align="center"><sub><b>AI AND AUTOMATION</b></sub><br><img src="https://img.shields.io/badge/AI%20Agents-0F1B2D?style=flat-square&labelColor=0F1B2D&color=0F1B2D" alt="AI Agents"> <img src="https://img.shields.io/badge/MCP-0F1B2D?style=flat-square&labelColor=0F1B2D&color=0F1B2D" alt="MCP"> <img src="https://img.shields.io/badge/LLM%20Integration-0F1B2D?style=flat-square&labelColor=0F1B2D&color=0F1B2D" alt="LLM Integration"> <img src="https://img.shields.io/badge/Gemini-0F1B2D?style=flat-square&labelColor=0F1B2D&color=0F1B2D" alt="Gemini"> <img src="https://img.shields.io/badge/OpenAI-0F1B2D?style=flat-square&labelColor=0F1B2D&color=0F1B2D" alt="OpenAI"> <img src="https://img.shields.io/badge/Puppeteer-0F1B2D?style=flat-square&labelColor=0F1B2D&color=0F1B2D" alt="Puppeteer"> <img src="https://img.shields.io/badge/Prompt%20Engineering-0F1B2D?style=flat-square&labelColor=0F1B2D&color=0F1B2D" alt="Prompt Engineering"></p>
 
-<b>AI & Automation</b><br>
-<img src="https://img.shields.io/badge/AI%20Agents-161B22?style=flat-square" alt="AI Agents">
-<img src="https://img.shields.io/badge/MCP-161B22?style=flat-square&logo=modelcontextprotocol&logoColor=FFFFFF" alt="MCP">
-<img src="https://img.shields.io/badge/LLM%20Integration-161B22?style=flat-square" alt="LLM Integration">
-<img src="https://img.shields.io/badge/Gemini-161B22?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Gemini">
-<img src="https://img.shields.io/badge/OpenAI-161B22?style=flat-square&logo=openai&logoColor=FFFFFF" alt="OpenAI">
-<img src="https://img.shields.io/badge/Puppeteer-161B22?style=flat-square&logo=puppeteer&logoColor=40B5A4" alt="Puppeteer">
-<img src="https://img.shields.io/badge/Prompt%20Engineering-161B22?style=flat-square" alt="Prompt Engineering">
-<br><br>
+<p align="center"><sub><b>DATA</b></sub><br><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&perline=5&theme=dark" alt="postgres, mysql, mongodb, redis, sqlite" height="48"><br><img src="https://img.shields.io/badge/MariaDB-0F1B2D?style=flat-square&labelColor=0F1B2D&color=0F1B2D" alt="MariaDB"></p>
 
-<b>Data</b><br>
-<img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL">
-<img src="https://img.shields.io/badge/MariaDB-161B22?style=flat-square&logo=mariadb&logoColor=C0765A" alt="MariaDB">
-<img src="https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB">
-<img src="https://img.shields.io/badge/Redis-161B22?style=flat-square&logo=redis&logoColor=DC382D" alt="Redis">
-<img src="https://img.shields.io/badge/SQLite-161B22?style=flat-square&logo=sqlite&logoColor=0F80CC" alt="SQLite">
-<br><br>
+<p align="center"><sub><b>INFRASTRUCTURE</b></sub><br><img src="https://skillicons.dev/icons?i=docker,linux,nginx,aws,gcp,git,githubactions,rabbitmq,kafka&perline=9&theme=dark" alt="docker, linux, nginx, aws, gcp, git, githubactions, rabbitmq, kafka" height="48"></p>
 
-<b>Infra & DevOps</b><br>
-<img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker">
-<img src="https://img.shields.io/badge/Linux-161B22?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux">
-<img src="https://img.shields.io/badge/Nginx-161B22?style=flat-square&logo=nginx&logoColor=009639" alt="Nginx">
-<img src="https://img.shields.io/badge/AWS-161B22?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS">
-<img src="https://img.shields.io/badge/Google%20Cloud-161B22?style=flat-square&logo=googlecloud&logoColor=4285F4" alt="Google Cloud">
-<img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=F05032" alt="Git">
-<img src="https://img.shields.io/badge/CI%2FCD-161B22?style=flat-square&logo=githubactions&logoColor=2088FF" alt="CI/CD">
-<img src="https://img.shields.io/badge/RabbitMQ-161B22?style=flat-square&logo=rabbitmq&logoColor=FF6600" alt="RabbitMQ">
-<img src="https://img.shields.io/badge/Kafka-161B22?style=flat-square&logo=apachekafka&logoColor=FFFFFF" alt="Kafka">
-<br><br>
+<p align="center"><sub><b>TOOLS</b></sub><br><img src="https://skillicons.dev/icons?i=postman,electron,selenium,figma&perline=4&theme=dark" alt="postman, electron, selenium, figma" height="48"><br><img src="https://img.shields.io/badge/Insomnia-0F1B2D?style=flat-square&labelColor=0F1B2D&color=0F1B2D" alt="Insomnia"></p>
 
-<b>Tools</b><br>
-<img src="https://img.shields.io/badge/Insomnia-161B22?style=flat-square&logo=insomnia&logoColor=4000BF" alt="Insomnia">
-<img src="https://img.shields.io/badge/Postman-161B22?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman">
-<img src="https://img.shields.io/badge/Electron-161B22?style=flat-square&logo=electron&logoColor=47848F" alt="Electron">
-<img src="https://img.shields.io/badge/Selenium-161B22?style=flat-square&logo=selenium&logoColor=43B02A" alt="Selenium">
-<img src="https://img.shields.io/badge/Figma-161B22?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma">
-<br><br>
+<br>
 
-</div>
+## Featured projects
+
+| Project | What it is | |
+| :--- | :--- | :--- |
+| **MyGames** | Marketplace for game items, accounts and currencies, with payments, digital delivery and platform security | [mygames.com.br](https://mygames.com.br) |
+| **Galaxy CDN** | CDN for assets, images and media with distributed caching | [galaxycdn.com.br](https://galaxycdn.com.br) |
+| **Free Gemini API** | API with sessions to integrate Gemini models into apps and automations | [freegemini.felipeestrela.com.br](https://freegemini.felipeestrela.com.br) |
+| **AllDrive** | Unified workspace for Google Drive and S3, with fast sharing and storage management | [alldrive.cloud](https://alldrive.cloud) |
+| **AstroHub** | Platform and desktop app for secure automations, campaigns and Discord management | [astrohub.neonstore.cloud](https://astrohub.neonstore.cloud) |
+| **Frameclear** | Web studio for removing logos and fixed areas from videos directly in the browser | [frameclear.felipeestrela.com.br](https://frameclear.felipeestrela.com.br) |
+
+<br>
+
+## Experience
+
+| Period | Role | Highlights |
+| :--- | :--- | :--- |
+| **2023 to Present** | **Full Stack Developer**<br>Hagap | Web and desktop systems for internal process automation<br>Team management modules, invoice issuing and document organization<br>Custom forms and tailored operational workflows |
+| **2022 to Present** | **Founder and Developer**<br>MyGames | Architecture and development of a marketplace for game items, accounts and currencies<br>Backend, frontend, payment integrations, digital delivery and platform security<br>Ongoing operation and evolution in production |
+| **2023** | **E-commerce Specialist**<br>Ativa EPIS | Online inventory control with monitoring to prevent stockouts<br>Storefront maintenance: banners, layout adjustments and visual content |
+| **2021 to 2022** | **Founder and Developer**<br>Lunar Bot | Discord bot for selling digital products<br>35,000+ users and 1,000+ active stores at the same time<br>Availability, performance and customer base growth |
+
+<br>
 
 ## Education and languages
 
-- **Software Engineering**, Biopark Educação · 2024 – 2027 (6th term)
-- **Projeto Zero ao Um**, Biopark · top student, Class 2 · 2021 – 2022
-- **High School**, Colégio Estadual Jardim Gisele · 2020 – 2023
-- **Certifications:** 54 completed course certificates
-- **Languages:** Portuguese (native) · English (intermediate, technical reading and professional communication) · Spanish (fluent)
+| | |
+| :--- | :--- |
+| **Software Engineering** | Biopark Educação, 2024 to 2027 (6th term) |
+| **Projeto Zero ao Um** | Biopark, top student of Class 2, 2021 to 2022 |
+| **High School** | Colégio Estadual Jardim Gisele, 2020 to 2023 |
+| **Certifications** | 54 completed course certificates |
 
-## Let's connect
+<p align="center">
+<img src="https://img.shields.io/badge/Portuguese-Native-14B8A6?style=flat-square&labelColor=0B1220" alt="Portuguese Native">
+<img src="https://img.shields.io/badge/English-Intermediate-14B8A6?style=flat-square&labelColor=0B1220" alt="English Intermediate">
+<img src="https://img.shields.io/badge/Spanish-Fluent-14B8A6?style=flat-square&labelColor=0B1220" alt="Spanish Fluent">
+</p>
 
-Open to talking about backend systems, automation and AI integrations.
+<sub>English: technical reading and professional communication.</sub>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/felipe-gte)
-[![Website](https://img.shields.io/badge/felipeestrela.com.br-161B22?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF)](https://felipeestrela.com.br)
-[![Email](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:felipeestrela2006@gmail.com)
+<br>
