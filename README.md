@@ -14,7 +14,7 @@ My work covers internal process automation, marketplaces and digital products ru
 
 ## What I do
 
-- **AI and automation:** AI agents, MCP servers, LLM integrations with Gemini and OpenAI, prompt engineering and browser automation with Puppeteer and Selenium
+- **AI and automation:** AI agents and multi agent orchestration, MCP servers, LLM integrations, coding agents such as Claude, Codex and OpenCode, n8n workflows, prompt engineering and browser automation with Puppeteer and Selenium
 - **Backend and APIs:** Node.js, Express, REST and GraphQL APIs, plus Django and Spring
 - **Full stack:** React, Next.js, Angular, Vue.js and Tailwind CSS
 - **Desktop apps:** Electron applications for automation and operations
@@ -43,9 +43,11 @@ Node.js, Express, Django, Spring, REST APIs and GraphQL
 
 ### AI and automation
 
-![AI and automation](https://skillicons.dev/icons?i=selenium&theme=dark)
+<img src="assets/ai-tools.svg" height="48" alt="Claude, OpenCode, DeepSeek, Kimi, Gemini, n8n and MCP">
 
-AI agents, MCP, LLM integration (Gemini and OpenAI), process automation, Puppeteer, Selenium and prompt engineering
+Claude, Codex, Kimi, OpenCode, DeepSeek, OpenBot, Gemini and OpenAI for coding agents and LLM integrations, n8n for workflow automation, and MCP servers for connecting agents to tools and data.
+
+Agent orchestration: multi agent workflows, subagents, tool calling, prompt chaining and prompt engineering. Process automation with Puppeteer and Selenium.
 
 ### Databases
 
