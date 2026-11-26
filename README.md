@@ -43,13 +43,15 @@ Node.js, Express, NestJS, Django, Spring, REST APIs and GraphQL
 
 ### AI and automation
 
-<img src="assets/ai-stack.svg" height="48" alt="Claude, OpenCode, DeepSeek, Kimi, Gemini, n8n, MCP, Puppeteer, Selenium, Playwright and Prompt Engineering">
+<img src="assets/ai-agents.svg" height="48" alt="Claude, OpenCode, DeepSeek, Kimi, Gemini, n8n and MCP">
 
 Claude, Codex, Kimi, OpenCode, DeepSeek, OpenBot, Gemini and OpenAI for coding agents and LLM integrations, n8n for workflow automation, and MCP servers for connecting agents to tools and data.
 
-Agent orchestration: multi agent workflows, subagents, tool calling, prompt chaining and prompt engineering.
+Agent orchestration: multi agent workflows, subagents, tool calling and prompt chaining.
 
-Browser automation and testing with Puppeteer, Selenium and Playwright.
+<img src="assets/ai-automation.svg" height="48" alt="Puppeteer, Selenium, Playwright and Prompt Engineering">
+
+Browser automation and testing with Puppeteer, Selenium and Playwright, plus prompt engineering for reliable agent behavior.
 
 ### Databases
 
