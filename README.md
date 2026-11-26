@@ -1,5 +1,5 @@
 <p>
-<a href="#"><img src="assets/banner.svg" alt="Felipe Estrela, Full Stack Developer, Node.js and AI Automation" width="100%"></a>
+<a href="#"><img src="assets/banner.svg?v=4" alt="Felipe Estrela, Full Stack Developer, Node.js and AI Automation" width="100%"></a>
 <a href="#"><img src="assets/h-about.svg" alt="01 About me" width="100%"></a>
 </p>
 
