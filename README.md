@@ -11,7 +11,7 @@ Full Stack Developer at **Hagap**. Software Engineering student at **Biopark** (
 - **AI and automation:** AI agents and multi agent orchestration, MCP servers, LLM integrations, coding agents such as Claude, Codex and OpenCode, n8n workflows, prompt engineering and browser automation with Puppeteer, Selenium and Playwright
 - **Backend and APIs:** Node.js, Express, NestJS, REST and GraphQL APIs, plus Django and Spring
 - **Full stack:** HTML, CSS, React, Next.js, Angular, Vue.js and Tailwind CSS
-- **Desktop apps:** Electron applications for automation and operations
+- **Desktop apps:** desktop applications for automation and operations, built with Electron and other stacks such as C#, Java and Python
 - **Data:** PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, Prisma, MongoDB, Redis for cache, sessions and queues, Elasticsearch, Firebase and Supabase
 - **Infrastructure:** Docker, Linux, Nginx, microservices, AWS, Google Cloud, CI/CD, RabbitMQ and Kafka
 
@@ -70,7 +70,6 @@ Postman, Insomnia, Swagger, Electron, Figma, VS Code, Cursor, GitHub, npm, Vite,
 - **[Galaxy CDN](https://galaxycdn.com.br)**: CDN for assets, images and media with distributed caching
 - **[Free Gemini API](https://freegemini.felipeestrela.com.br)**: API with sessions to integrate Gemini models into apps and automations
 - **[AllDrive](https://alldrive.cloud)**: unified workspace for Google Drive and S3, with fast sharing and storage management
-- **[AstroHub](https://astrohub.neonstore.cloud)**: platform and desktop app for secure automations, campaigns and Discord management
 - **[Frameclear](https://frameclear.felipeestrela.com.br)**: web studio for removing logos and fixed areas from videos directly in the browser
 
 ## Languages
@@ -81,6 +80,8 @@ Portuguese (native), English (intermediate, for technical reading and profession
 
 ## Connect with me
 
-Open to talking about backend systems, automation and AI integrations. The best way to reach me is through LinkedIn.
+Open to talking about backend systems, automation and AI integrations. You can reach me by email or LinkedIn.
 
-<a href="https://www.linkedin.com/in/felipe-gte"><img src="assets/btn-linkedin-bw.svg" height="56" alt="LinkedIn, linkedin.com/in/felipe-gte"></a>&nbsp;&nbsp;<a href="https://felipeestrela.com.br"><img src="assets/btn-website-bw.svg" height="56" alt="Website, felipeestrela.com.br"></a>
+<a href="https://www.linkedin.com/in/felipe-gte"><img src="assets/btn-linkedin-bw.svg" height="56" alt="LinkedIn, linkedin.com/in/felipe-gte"></a>&nbsp;&nbsp;<a href="https://felipeestrela.com.br"><img src="assets/btn-website-bw.svg" height="56" alt="Website, felipeestrela.com.br"></a>&nbsp;&nbsp;<a href="mailto:felipeestrela2006@gmail.com"><img src="assets/btn-email-bw.svg" height="56" alt="Email, felipeestrela2006@gmail.com"></a>
+
+**Email:** felipeestrela2006@gmail.com
