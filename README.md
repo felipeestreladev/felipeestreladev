@@ -1,12 +1,12 @@
-<img src="assets/banner-bw.svg" alt="Felipe Estrela, Backend Developer, Node.js and AI Automation" width="100%">
+<img src="assets/banner.svg" alt="Felipe Estrela, Backend Developer, Node.js and AI Automation" width="100%">
 
-## About me
+<img src="assets/h-about.svg" alt="01 About me" width="100%">
 
 Backend developer from Toledo, Paraná, Brazil. I build APIs, web systems and AI automations with **Node.js and TypeScript**.
 
 Full Stack Developer at **Hagap**. Software Engineering student at **Biopark** (2027).
 
-## What I do
+<img src="assets/h-do.svg" alt="02 What I do" width="100%">
 
 - **AI and automation:** AI agents and multi agent orchestration, MCP servers, LLM integrations, coding agents such as Claude, Codex and OpenCode, n8n workflows, prompt engineering and browser automation with Puppeteer, Selenium and Playwright
 - **Backend and APIs:** Node.js, Express, NestJS, REST and GraphQL APIs, plus Django and Spring
@@ -15,73 +15,43 @@ Full Stack Developer at **Hagap**. Software Engineering student at **Biopark** (
 - **Data:** PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, Prisma, MongoDB, Redis for cache, sessions and queues, Elasticsearch, Firebase and Supabase
 - **Infrastructure:** Docker, Linux, Nginx, microservices, AWS, Google Cloud, CI/CD, RabbitMQ and Kafka
 
-## My stacks
+<img src="assets/h-stacks.svg" alt="03 My stacks" width="100%">
 
-### Languages
+<img src="assets/s-languages.svg" alt="Languages: TypeScript, JavaScript, Python, C#, Java, Go, PHP, Lua, C++, C and SQL" width="100%">
 
-![Languages](https://skillicons.dev/icons?i=ts,js,py,cs,java,go,php,lua,cpp,c&theme=dark)
+<img src="assets/s-frontend.svg" alt="Frontend: HTML5, CSS3, React, Next.js, Angular, Vue.js and Tailwind CSS" width="100%">
 
-TypeScript, JavaScript, Python, C#, Java, Go, PHP, Lua, C++, C and SQL
+<img src="assets/s-backend.svg" alt="Backend: Node.js, Express, NestJS, Django, Spring, REST APIs and GraphQL" width="100%">
 
-### Frontend
+<img src="assets/s-ai.svg" alt="AI and automation: Claude, Codex, Kimi, OpenCode, DeepSeek, OpenBot, Gemini, OpenAI, n8n, MCP and prompt engineering" width="100%">
 
-![Frontend](https://skillicons.dev/icons?i=html,css,react,nextjs,angular,vue,tailwind&theme=dark)
+Claude, Codex, Kimi, OpenCode, DeepSeek, OpenBot, Gemini and OpenAI for coding agents and LLM integrations, n8n for workflow automation, and MCP servers for connecting agents to tools and data. Agent orchestration covers multi agent workflows, subagents, tool calling and prompt chaining.
 
-HTML5, CSS3, React, Next.js, Angular, Vue.js and Tailwind CSS
+<img src="assets/s-browser.svg" alt="Browser automation: Puppeteer, Selenium and Playwright" width="100%">
 
-### Backend
+<img src="assets/s-data.svg" alt="Databases: PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, Prisma, MongoDB, Redis, Elasticsearch, Firebase and Supabase" width="100%">
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,django,spring,graphql&theme=dark)
+<img src="assets/s-infra.svg" alt="Infrastructure: Docker, Linux, Nginx, AWS, Google Cloud, Git, CI/CD, RabbitMQ and Kafka" width="100%">
 
-Node.js, Express, NestJS, Django, Spring, REST APIs and GraphQL
+<img src="assets/s-tools.svg" alt="Tools: Postman, Insomnia, Swagger, Electron, Figma, VS Code, Cursor, GitHub, npm, Vite, Jest, Bash and Obsidian" width="100%">
 
-### AI and automation
+<img src="assets/h-projects.svg" alt="04 Projects" width="100%">
 
-<img src="assets/ai-agents.svg" height="48" alt="Claude, OpenCode, DeepSeek, Kimi, Gemini, n8n and MCP">
+<a href="https://galaxycdn.com.br"><img src="assets/p-galaxycdn.svg" width="49%" alt="Galaxy CDN: CDN for assets, images and media with distributed caching"></a>
+<a href="https://freegemini.felipeestrela.com.br"><img src="assets/p-freegemini.svg" width="49%" alt="Free Gemini API: API with sessions to bring Gemini models into apps"></a>
+<a href="https://alldrive.cloud"><img src="assets/p-alldrive.svg" width="49%" alt="AllDrive: Google Drive and S3 in one workspace, fast sharing"></a>
+<a href="https://frameclear.felipeestrela.com.br"><img src="assets/p-frameclear.svg" width="49%" alt="Frameclear: remove logos and fixed areas from videos in the browser"></a>
 
-Claude, Codex, Kimi, OpenCode, DeepSeek, OpenBot, Gemini and OpenAI for coding agents and LLM integrations, n8n for workflow automation, and MCP servers for connecting agents to tools and data.
+<img src="assets/h-languages.svg" alt="05 Languages" width="100%">
 
-Agent orchestration: multi agent workflows, subagents, tool calling and prompt chaining.
+<img src="assets/languages.svg" width="100%" alt="Languages spoken: Portuguese native, English intermediate, Spanish fluent">
 
-<img src="assets/ai-browser-bw.svg" height="48" alt="Puppeteer, Selenium, Playwright and Prompt Engineering">
+English is for technical reading and professional communication.
 
-Browser automation and testing with Puppeteer, Selenium and Playwright, plus prompt engineering for reliable agent behavior.
-
-### Databases
-
-<img src="assets/stack-databases.svg" height="104" alt="PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, Prisma, MongoDB, Redis, Elasticsearch, Firebase and Supabase">
-
-PostgreSQL, MySQL, MariaDB, SQL Server, SQLite and Prisma for relational data. MongoDB, Redis (cache, sessions and queues), Elasticsearch, Firebase and Supabase for NoSQL, caching and cloud.
-
-### Infrastructure and DevOps
-
-![Infrastructure](https://skillicons.dev/icons?i=docker,linux,nginx,aws,gcp,git,githubactions,rabbitmq,kafka&theme=dark)
-
-Docker, Linux, Nginx, microservices, AWS, Google Cloud, Git, CI/CD, RabbitMQ and Kafka
-
-### Tools
-
-<img src="assets/stack-tools.svg" height="104" alt="Postman, Insomnia, Swagger, Electron, Figma, VS Code, Cursor, GitHub, npm, Vite, Jest, Bash and Obsidian">
-
-Postman, Insomnia, Swagger, Electron, Figma, VS Code, Cursor, GitHub, npm, Vite, Jest, Bash and Obsidian. Browser automation with Selenium, Puppeteer and Playwright.
-
-## Featured projects
-
-- **[Galaxy CDN](https://galaxycdn.com.br)**: CDN for assets, images and media with distributed caching
-- **[Free Gemini API](https://freegemini.felipeestrela.com.br)**: API with sessions to integrate Gemini models into apps and automations
-- **[AllDrive](https://alldrive.cloud)**: unified workspace for Google Drive and S3, with fast sharing and storage management
-- **[Frameclear](https://frameclear.felipeestrela.com.br)**: web studio for removing logos and fixed areas from videos directly in the browser
-
-## Languages
-
-<img src="assets/spoken-languages-bw.svg" alt="Languages spoken: Portuguese native, English intermediate, Spanish fluent">
-
-Portuguese (native), English (intermediate, for technical reading and professional communication) and Spanish (fluent).
-
-## Connect with me
+<img src="assets/h-connect.svg" alt="06 Connect with me" width="100%">
 
 Open to talking about backend systems, automation and AI integrations. You can reach me by email or LinkedIn.
 
-<a href="https://www.linkedin.com/in/felipe-gte"><img src="assets/btn-linkedin-bw.svg" height="56" alt="LinkedIn, linkedin.com/in/felipe-gte"></a>&nbsp;&nbsp;<a href="https://felipeestrela.com.br"><img src="assets/btn-website-bw.svg" height="56" alt="Website, felipeestrela.com.br"></a>&nbsp;&nbsp;<a href="mailto:felipeestrela2006@gmail.com"><img src="assets/btn-email-bw.svg" height="56" alt="Email, felipeestrela2006@gmail.com"></a>
+<a href="https://www.linkedin.com/in/felipe-gte"><img src="assets/b-linkedin.svg" height="64" alt="LinkedIn, linkedin.com/in/felipe-gte"></a>&nbsp;&nbsp;&nbsp;<a href="https://felipeestrela.com.br"><img src="assets/b-website.svg" height="64" alt="Website, felipeestrela.com.br"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:felipeestrela2006@gmail.com"><img src="assets/b-email.svg" height="64" alt="Email, felipeestrela2006@gmail.com"></a>
 
-**Email:** felipeestrela2006@gmail.com
+<img src="assets/footer.svg" alt="Let's build something" width="100%">
