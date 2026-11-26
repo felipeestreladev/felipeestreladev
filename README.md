@@ -14,9 +14,9 @@ My work covers internal process automation, marketplaces and digital products ru
 
 ## What I do
 
-- **AI and automation:** AI agents and multi agent orchestration, MCP servers, LLM integrations, coding agents such as Claude, Codex and OpenCode, n8n workflows, prompt engineering and browser automation with Puppeteer and Selenium
-- **Backend and APIs:** Node.js, Express, REST and GraphQL APIs, plus Django and Spring
-- **Full stack:** React, Next.js, Angular, Vue.js and Tailwind CSS
+- **AI and automation:** AI agents and multi agent orchestration, MCP servers, LLM integrations, coding agents such as Claude, Codex and OpenCode, n8n workflows, prompt engineering and browser automation with Puppeteer, Selenium and Playwright
+- **Backend and APIs:** Node.js, Express, NestJS, REST and GraphQL APIs, plus Django and Spring
+- **Full stack:** HTML, CSS, React, Next.js, Angular, Vue.js and Tailwind CSS
 - **Desktop apps:** Electron applications for automation and operations
 - **Data:** PostgreSQL, MySQL, MariaDB, MongoDB, Redis for cache, sessions and queues, and SQLite
 - **Infrastructure:** Docker, Linux, Nginx, microservices, AWS, Google Cloud, CI/CD, RabbitMQ and Kafka
@@ -25,29 +25,31 @@ My work covers internal process automation, marketplaces and digital products ru
 
 ### Languages
 
-![Languages](https://skillicons.dev/icons?i=ts,js,py,cs,java,go,php,html,css&theme=dark)
+![Languages](https://skillicons.dev/icons?i=ts,js,py,cs,java,go,php,lua,cpp,c&theme=dark)
 
-TypeScript, JavaScript, Python, C#, Java, Go, PHP, SQL, HTML5 and CSS3
+TypeScript, JavaScript, Python, C#, Java, Go, PHP, Lua, C++, C and SQL
 
 ### Frontend
 
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,angular,vue,tailwind&theme=dark)
+![Frontend](https://skillicons.dev/icons?i=html,css,react,nextjs,angular,vue,tailwind&theme=dark)
 
-React, Next.js, Angular, Vue.js and Tailwind CSS
+HTML5, CSS3, React, Next.js, Angular, Vue.js and Tailwind CSS
 
 ### Backend
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express,django,spring,graphql&theme=dark)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,django,spring,graphql&theme=dark)
 
-Node.js, Express, Django, Spring, REST APIs and GraphQL
+Node.js, Express, NestJS, Django, Spring, REST APIs and GraphQL
 
 ### AI and automation
 
-<img src="assets/ai-tools.svg" height="48" alt="Claude, OpenCode, DeepSeek, Kimi, Gemini, n8n and MCP">
+<img src="assets/ai-tools.svg" height="48" alt="Claude, OpenCode, DeepSeek, Kimi, Gemini, n8n, MCP, Puppeteer, Selenium, Playwright and Prompt Engineering">
 
 Claude, Codex, Kimi, OpenCode, DeepSeek, OpenBot, Gemini and OpenAI for coding agents and LLM integrations, n8n for workflow automation, and MCP servers for connecting agents to tools and data.
 
-Agent orchestration: multi agent workflows, subagents, tool calling, prompt chaining and prompt engineering. Process automation with Puppeteer and Selenium.
+Agent orchestration: multi agent workflows, subagents, tool calling, prompt chaining and prompt engineering.
+
+Browser automation and testing with Puppeteer, Selenium and Playwright.
 
 ### Databases
 
@@ -65,7 +67,7 @@ Docker, Linux, Nginx, microservices, AWS, Google Cloud, Git, CI/CD, RabbitMQ and
 
 ![Tools](https://skillicons.dev/icons?i=postman,electron,figma&theme=dark)
 
-Postman, Insomnia, Electron, Selenium, Puppeteer and Figma
+Postman, Insomnia, Electron, Selenium, Puppeteer, Playwright and Figma
 
 ## Featured projects
 
