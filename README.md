@@ -18,7 +18,7 @@ My work covers internal process automation, marketplaces and digital products ru
 - **Backend and APIs:** Node.js, Express, NestJS, REST and GraphQL APIs, plus Django and Spring
 - **Full stack:** HTML, CSS, React, Next.js, Angular, Vue.js and Tailwind CSS
 - **Desktop apps:** Electron applications for automation and operations
-- **Data:** PostgreSQL, MySQL, MariaDB, MongoDB, Redis for cache, sessions and queues, and SQLite
+- **Data:** PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, Prisma, MongoDB, Redis for cache, sessions and queues, Elasticsearch, Firebase and Supabase
 - **Infrastructure:** Docker, Linux, Nginx, microservices, AWS, Google Cloud, CI/CD, RabbitMQ and Kafka
 
 ## My stacks
@@ -55,9 +55,9 @@ Browser automation and testing with Puppeteer, Selenium and Playwright, plus pro
 
 ### Databases
 
-![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=dark)
+<img src="assets/stack-databases.svg" height="104" alt="PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, Prisma, MongoDB, Redis, Elasticsearch, Firebase and Supabase">
 
-PostgreSQL, MySQL, MariaDB, MongoDB, Redis (cache, sessions and queues) and SQLite
+PostgreSQL, MySQL, MariaDB, SQL Server, SQLite and Prisma for relational data. MongoDB, Redis (cache, sessions and queues), Elasticsearch, Firebase and Supabase for NoSQL, caching and cloud.
 
 ### Infrastructure and DevOps
 
@@ -67,59 +67,26 @@ Docker, Linux, Nginx, microservices, AWS, Google Cloud, Git, CI/CD, RabbitMQ and
 
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=postman,electron,figma&theme=dark)
+<img src="assets/stack-tools.svg" height="104" alt="Postman, Insomnia, Swagger, Electron, Figma, VS Code, Cursor, GitHub, npm, Vite, Jest, Bash and Obsidian">
 
-Postman, Insomnia, Electron, Selenium, Puppeteer, Playwright and Figma
+Postman, Insomnia, Swagger, Electron, Figma, VS Code, Cursor, GitHub, npm, Vite, Jest, Bash and Obsidian. Browser automation with Selenium, Puppeteer and Playwright.
 
 ## Featured projects
 
-- **[MyGames](https://mygames.com.br)**: marketplace for game items, accounts and currencies, with payments, digital delivery and platform security
 - **[Galaxy CDN](https://galaxycdn.com.br)**: CDN for assets, images and media with distributed caching
 - **[Free Gemini API](https://freegemini.felipeestrela.com.br)**: API with sessions to integrate Gemini models into apps and automations
 - **[AllDrive](https://alldrive.cloud)**: unified workspace for Google Drive and S3, with fast sharing and storage management
 - **[AstroHub](https://astrohub.neonstore.cloud)**: platform and desktop app for secure automations, campaigns and Discord management
 - **[Frameclear](https://frameclear.felipeestrela.com.br)**: web studio for removing logos and fixed areas from videos directly in the browser
 
-## Experience
-
-**Full Stack Developer at Hagap** (2023 to Present)
-
-- Web and desktop systems for internal process automation
-- Team management modules, invoice issuing and document organization
-- Custom forms and tailored operational workflows for internal teams
-
-**Founder and Developer of MyGames** (2022 to Present)
-
-- Architecture and development of a marketplace for game items, accounts and currencies
-- Backend, frontend, payment integrations, digital delivery and platform security
-- Ongoing operation and evolution of the product in production
-
-**E-commerce Specialist at Ativa EPIS** (2023)
-
-- Online inventory control with monitoring to prevent stockouts
-- Storefront maintenance: banners, layout adjustments and visual content updates
-
-**Founder and Developer of Lunar Bot** (2021 to 2022)
-
-- Discord bot for selling digital products, grown to 35,000+ users
-- Managed availability, performance and customer base growth
-
-## Education
-
-- **Software Engineering**, Biopark Educação (2024 to 2027, 6th term)
-- **Projeto Zero ao Um**, Biopark: top student of Class 2 (2021 to 2022)
-- **High School**, Colégio Estadual Jardim Gisele (2020 to 2023)
-- **Certifications:** 54 completed course certificates
-
 ## Languages
 
-- Portuguese: native
-- English: intermediate, for technical reading and professional communication
-- Spanish: fluent
+<img src="assets/spoken-languages.svg" alt="Languages spoken: Portuguese native, English intermediate, Spanish fluent">
+
+Portuguese (native), English (intermediate, for technical reading and professional communication) and Spanish (fluent).
 
 ## Connect with me
 
-Open to talking about backend systems, automation and AI integrations.
+Open to talking about backend systems, automation and AI integrations. The best way to reach me is through LinkedIn.
 
-- **LinkedIn:** [linkedin.com/in/felipe-gte](https://www.linkedin.com/in/felipe-gte)
-- **Website:** [felipeestrela.com.br](https://felipeestrela.com.br)
+<a href="https://www.linkedin.com/in/felipe-gte"><img src="assets/btn-linkedin.svg" height="56" alt="LinkedIn, linkedin.com/in/felipe-gte"></a>&nbsp;&nbsp;<a href="https://felipeestrela.com.br"><img src="assets/btn-website.svg" height="56" alt="Website, felipeestrela.com.br"></a>
