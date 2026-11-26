@@ -3,7 +3,7 @@
 <a href="#"><img src="assets/h-about.svg" alt="01 About me" width="100%"></a>
 </p>
 
-Full stack developer from Toledo, Paraná, Brazil. I build APIs, web systems and AI automations with **Node.js and TypeScript**.
+Full stack developer from Toledo, Paraná, Brazil. I build all kinds of software: APIs, web systems, AI automations, web scraping, and mobile and desktop apps, mostly with **Node.js and TypeScript**.
 
 Full Stack Developer at **Hagap**. Software Engineering student at **Biopark** (2027).
 
