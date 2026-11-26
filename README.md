@@ -35,7 +35,7 @@ Claude, Codex, Kimi, OpenCode, DeepSeek, OpenBot, Gemini and OpenAI for coding a
 <a href="https://galaxycdn.com.br"><img src="assets/p-galaxycdn.svg" width="49%" alt="Galaxy CDN: CDN for assets, images and media with distributed caching"></a><a href="https://freegemini.felipeestrela.com.br"><img src="assets/p-freegemini.svg" width="49%" alt="Free Gemini API: API with sessions to bring Gemini models into apps"></a>
 <a href="https://alldrive.cloud"><img src="assets/p-alldrive.svg" width="49%" alt="AllDrive: Google Drive and S3 in one workspace, fast sharing"></a><a href="https://frameclear.felipeestrela.com.br"><img src="assets/p-frameclear.svg" width="49%" alt="Frameclear: remove logos and fixed areas from videos in the browser"></a>
 <a href="#"><img src="assets/h-languages.svg" alt="05 Languages" width="100%"></a>
-<a href="#"><img src="assets/languages.svg?v=2" width="100%" alt="Languages spoken: Portuguese native, English intermediate, Spanish fluent"></a>
+<a href="#"><img src="assets/languages.svg?v=3" width="100%" alt="Languages spoken: Portuguese native, English intermediate, Spanish fluent"></a>
 </p>
 
 English is for technical reading and professional communication.
