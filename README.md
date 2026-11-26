@@ -1,5 +1,5 @@
 <p>
-<a href="#"><img src="assets/banner.svg?v=4" alt="Felipe Estrela, Full Stack Developer, Node.js and AI Automation" width="100%"></a>
+<a href="#"><img src="assets/banner.svg?v=5" alt="Felipe Estrela, Full Stack Developer, Node.js and AI Automation" width="100%"></a>
 <a href="#"><img src="assets/h-about.svg" alt="01 About me" width="100%"></a>
 </p>
 
@@ -32,8 +32,8 @@ Claude, Codex, Kimi, OpenCode, DeepSeek, OpenBot, Gemini and OpenAI for coding a
 <a href="#"><img src="assets/s-infra.svg" alt="Infrastructure: Docker, Linux, Nginx, AWS, Google Cloud, Git, CI/CD, RabbitMQ and Kafka" width="100%"></a>
 <a href="#"><img src="assets/s-tools.svg" alt="Tools: Postman, Insomnia, Swagger, Electron, Figma, VS Code, Cursor, GitHub, npm, Vite, Jest, Bash and Obsidian" width="100%"></a>
 <a href="#"><img src="assets/h-projects.svg" alt="04 Projects" width="100%"></a>
-<a href="https://galaxycdn.com.br"><img src="assets/p-galaxycdn.svg?v=2" width="49%" alt="Galaxy CDN: CDN for assets, images and media with distributed caching"></a><a href="https://freegemini.felipeestrela.com.br"><img src="assets/p-freegemini.svg?v=2" width="49%" alt="Free Gemini API: API with sessions to bring Gemini models into apps"></a>
-<a href="https://alldrive.cloud"><img src="assets/p-alldrive.svg?v=2" width="49%" alt="AllDrive: Google Drive and S3 in one workspace, fast sharing"></a><a href="https://frameclear.felipeestrela.com.br"><img src="assets/p-frameclear.svg?v=2" width="49%" alt="Frameclear: remove logos and fixed areas from videos in the browser"></a>
+<a href="https://galaxycdn.com.br"><img src="assets/p-galaxycdn.svg?v=3" width="49%" alt="Galaxy CDN: CDN for assets, images and media with distributed caching"></a><a href="https://freegemini.felipeestrela.com.br"><img src="assets/p-freegemini.svg?v=3" width="49%" alt="Free Gemini API: API with sessions to bring Gemini models into apps"></a>
+<a href="https://alldrive.cloud"><img src="assets/p-alldrive.svg?v=3" width="49%" alt="AllDrive: Google Drive and S3 in one workspace, fast sharing"></a><a href="https://frameclear.felipeestrela.com.br"><img src="assets/p-frameclear.svg?v=3" width="49%" alt="Frameclear: remove logos and fixed areas from videos in the browser"></a>
 <a href="#"><img src="assets/h-languages.svg" alt="05 Languages" width="100%"></a>
 <a href="#"><img src="assets/languages.svg?v=4" width="100%" alt="Languages spoken: Portuguese native, English intermediate, Spanish fluent"></a>
 </p>
