@@ -1,9 +1,9 @@
 <p>
-<a href="#"><img src="assets/banner.svg" alt="Felipe Estrela, Backend Developer, Node.js and AI Automation" width="100%"></a>
+<a href="#"><img src="assets/banner.svg" alt="Felipe Estrela, Full Stack Developer, Node.js and AI Automation" width="100%"></a>
 <a href="#"><img src="assets/h-about.svg" alt="01 About me" width="100%"></a>
 </p>
 
-Backend developer from Toledo, Paraná, Brazil. I build APIs, web systems and AI automations with **Node.js and TypeScript**.
+Full stack developer from Toledo, Paraná, Brazil. I build APIs, web systems and AI automations with **Node.js and TypeScript**.
 
 Full Stack Developer at **Hagap**. Software Engineering student at **Biopark** (2027).
 
